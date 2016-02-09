@@ -6,3 +6,10 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 2. Manlike Androids Can Barely Raise Exceptions
 3. May Asynchronous Calls Be Repeated Everlastingly?
 4. My Aunt Clones Big Repos Everyday
+
+## Contribution
+
+You are more than welcome to contribute under the following rules:
+
+1. May All Contributions Be Rather Eloquent.
+2. May All Contributions Be Respectful Enough.
