@@ -7,7 +7,8 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 3. May Asynchronous Calls Be Repeated Everlastingly?
 4. My Aunt Clones Big Repos Everyday.
 5. Much Anticipated Completely Bored Rockstar Engineer
-6. Medieval And Cruel Bold Reverts Engineer.
+6. Medieval And Cruel Bold Reverts Engineer
+7. Maybe Another Chicken Becomes Really Eatable
 
 ## Contribution
 
