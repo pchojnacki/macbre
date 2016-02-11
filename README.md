@@ -9,6 +9,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 5. Much Anticipated Completely Bored Rockstar Engineer
 6. Medieval And Cruel Bold Reverts Engineer.
 7. Macbre As Cool But Reccurrenced Engineer.
+8. Massive And Crucial Bloody Rotten Edgecase.
 
 ## Contribution
 
