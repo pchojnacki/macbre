@@ -11,6 +11,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Medieval And Cruel Bold Reverts Engineer
 * Maybe Another Chicken Becomes Really Eatable
 * Massive And Crucial Bloody Rotten Edgecase
+* May All Conflicts Be Resolved Eventually
 
 ## Contribution
 
