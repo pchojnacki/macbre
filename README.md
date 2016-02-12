@@ -10,6 +10,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Macbre As Cool But Reccurrenced Engineer
 * Medieval And Cruel Bold Reverts Engineer
 * Maybe Another Chicken Becomes Really Eatable
+* Massive And Crucial Bloody Rotten Edgecase
 
 ## Contribution
 
