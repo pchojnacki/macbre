@@ -13,6 +13,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Massive And Crucial Bloody Rotten Edgecase
 * May All Conflicts Be Resolved Eventually
 * Middle Aged Caesar Built Roman Empire
+* Many Apathic Chihuahuas Bark Ridiculously Eloquently
 
 ## Contribution
 
