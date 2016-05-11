@@ -14,6 +14,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * May All Conflicts Be Resolved Eventually
 * Middle Aged Caesar Built Roman Empire
 * Many Apathic Chihuahuas Bark Ridiculously Eloquently
+* Manual Automation: Consistent Behaviour, Repeatable Excellence
 
 ## Contribution
 
